@@ -38,15 +38,15 @@ To validate the blockchain, click the "Validate the Chain" button. This will che
 * Visuals
 Below are some screenshots of PyChain in action:
 
-* ![Streamlit Terminal Window](https://imgur.com/S7x7Lpd)
+* ![Streamlit Terminal Window]([https://imgur.com/S7x7Lpd](https://imgur.com/w6TIbvO)
 
 
 
-* ![Streamlit Transactions Full Page](https://imgur.com/b2EPJfm)
+* ![Streamlit Transactions Full Page][(https://imgur.com/b2EPJfm)](https://imgur.com/dAgGpIu)
 )
 
 
-* ![Streamlit Transactions](https://imgur.com/b2EPJfm)
+* ![Streamlit Transactions][(https://imgur.com/b2EPJfm)](https://imgur.com/yT3rmQx)
 
 
 ### Conclusion
