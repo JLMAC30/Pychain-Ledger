@@ -1,4 +1,4 @@
-## PyChain Blockchain
+## PyChain Ledger
 ### Introduction
 PyChain is a Python-based blockchain implementation that enables you to create your own blockchain, generate new blocks, and validate blockchains. PyChain is built using Object-Oriented Programming (OOP) principles and has a simple yet robust architecture. This project was developed as part of the RUC FinTech Bootcamp program.
 
@@ -52,7 +52,11 @@ Below are some screenshots of PyChain in action:
 ### Conclusion
 In conclusion, the development of a blockchain-based ledger system with a user-friendly web interface is essential for the financial industry to remain competitive in the ever-evolving digital landscape. With the rise of decentralized finance, it's critical for partner banks to have access to a secure and transparent ledger system that allows them to conduct financial transactions and verify data integrity. This project has provided a solid foundation for building such a system, and with further development and implementation, it has the potential to revolutionize the way financial transactions are conducted in the future.
 
+### License ### License MIT License
 
+Copyright (c) [2023] [Jacob Macpherson]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software...
 
 
 
