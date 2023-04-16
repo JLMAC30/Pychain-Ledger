@@ -1,6 +1,5 @@
 ## PyChain Ledger
 ### Introduction
-PyChain is a Python-based blockchain implementation that enables you to create your own blockchain, generate new blocks, and validate blockchains. PyChain is built using Object-Oriented Programming (OOP) principles and has a simple yet robust architecture. This project was developed as part of the RUC FinTech Bootcamp program.
 
 As the lead developer on the decentralized finance team at one of the largest banks in the world, my task was to build a blockchain-based ledger system with a user-friendly web interface. The main objective was to provide a secure platform for partner banks to conduct financial transactions and verify the integrity of data in the ledger.
 
