@@ -51,7 +51,7 @@ Below are some screenshots of PyChain in action:
 ### Conclusion
 In conclusion, the development of a blockchain-based ledger system with a user-friendly web interface is essential for the financial industry to remain competitive in the ever-evolving digital landscape. With the rise of decentralized finance, it's critical for partner banks to have access to a secure and transparent ledger system that allows them to conduct financial transactions and verify data integrity. This project has provided a solid foundation for building such a system, and with further development and implementation, it has the potential to revolutionize the way financial transactions are conducted in the future.
 
-### License ### License MIT License
+### MIT License
 
 Copyright (c) [2023] [Jacob Macpherson]
 
